@@ -11,4 +11,7 @@ La empresa Global Super Store, líder en ventas de productos en línea a nivel i
 * El análisis completo incluye **gráficos y KPIs** detallados sobre costos e ingresos, segmentados por **fecha, país, región, método de envío,** y **subcategoría de producto**.
 
 
+<p align="center">
+  <img src="./Imagenes/b71c2baa-e305-430a-9d45-da2484d98acb.webp" width="100%">
+</p>
 
