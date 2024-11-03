@@ -14,4 +14,3 @@ La empresa Global Super Store, líder en ventas de productos en línea a nivel i
 <p align="center">
   <img src="./Imagenes/b71c2baa-e305-430a-9d45-da2484d98acb.webp" width="100%">
 </p>
-
