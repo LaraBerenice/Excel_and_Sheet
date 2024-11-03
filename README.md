@@ -7,6 +7,6 @@ Este repositorio contiene trabajos realizados como analista de datos utilizando 
 Estos trabajos demuestran mis habilidades en el manejo y visualización de datos, proporcionando información valiosa para la toma de decisiones.
 
 <p align="center">
-  <img src="./Imagenes/7608c33a-1406-48a1-803c-c6fc2cbcadfc.webp" width="100%">
+  <img src="./Imagenes/9086ce32-6dd7-40cc-bc37-9928e4f6b65b.webp" width="100%">
 </p>
 
