@@ -1,6 +1,6 @@
 # Análisis de Datos en Excel y Google Sheets
 
-Este repositorio contiene trabajos realizados como analista de datos utilizando Excel y Google Sheets. Incluye análisis dos áreas: **análisis de granos** y **gestión de una tienda de retail**.
+Este repositorio contiene trabajos realizados como analista de datos utilizando Excel y Google Sheets. Incluye análisis con aportes en dos áreas: **análisis de granos** y **gestión de una tienda de retail**.
 
 ### Contenido:
 
